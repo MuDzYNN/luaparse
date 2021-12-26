@@ -1,7 +1,7 @@
 {
-  "name": "luaparse",
+  "name": "@mudzyn/luaparse",
   "version": "0.3.1",
-  "description": "A Lua parser in JavaScript",
+  "description": "A Lua parser in JavaScript (now also works with FiveM! Support for: `model_name`)",
   "keywords": [
     "ast",
     "lua",
@@ -25,7 +25,7 @@
   "man": "./docs/luaparse.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fstirlitz/luaparse.git"
+    "url": "https://github.com/MuDzYNN/luaparse.git"
   },
   "scripts": {
     "test": "make qa",
